@@ -1,0 +1,28 @@
+    sd_writeData((String(temp.temperature) + String(pressure.pressure) + String(humidity.relative_humidity)));
+
+
+Port série activé. Baudrate: 9600
+Initialisation de la carte SD...
+Initialisation du module SD réussie.
+Adafruit MS8607 test!
+MS8607 Found!
+
+Donnée écrite.
+
+Donnée écrite.
+
+
+Port série activé. Baudrate: 9600
+Initialisation de la carte SD...
+Initialisation du module SD réussie.
+Adafruit MS8607 test!
+Ecriture dans le fichier log_1_25.txt
+Donnée écrite.
+
+
+Le croquis utilise 13616 octets (42%) de l'espace de stockage de programmes. Le maximum est de 32256 octets.
+Les variables globales utilisent 1367 octets (66%) de mémoire dynamique, ce qui laisse 681 octets pour les variables locales. Le maximum est de 2048 octets.
+
+Le croquis utilise 20046 octets (62%) de l'espace de stockage de programmes. Le maximum est de 32256 octets.
+Les variables globales utilisent 1566 octets (76%) de mémoire dynamique, ce qui laisse 482 octets pour les variables locales. Le maximum est de 2048 octets.
+La mémoire disponible faible, des problèmes de stabilité pourraient survenir.
